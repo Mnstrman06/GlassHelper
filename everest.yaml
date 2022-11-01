@@ -1,0 +1,6 @@
+- Name: GlassHelper
+  Version: 1.0.1
+  DLL: Code/GlassHelper/GlassHelper/bin/Debug/net452/GlassHelper.dll
+  Dependencies:
+    - Name: Everest
+      Version: 1.3070.0

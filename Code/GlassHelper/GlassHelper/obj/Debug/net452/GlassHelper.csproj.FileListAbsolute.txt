@@ -1,0 +1,8 @@
+/Users/atom/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/GlassHelper/Code/GlassHelper/GlassHelper/bin/Debug/net452/GlassHelper.dll
+/Users/atom/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/GlassHelper/Code/GlassHelper/GlassHelper/bin/Debug/net452/GlassHelper.pdb
+/Users/atom/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/GlassHelper/Code/GlassHelper/GlassHelper/obj/Debug/net452/GlassHelper.csprojAssemblyReference.cache
+/Users/atom/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/GlassHelper/Code/GlassHelper/GlassHelper/obj/Debug/net452/GlassHelper.AssemblyInfoInputs.cache
+/Users/atom/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/GlassHelper/Code/GlassHelper/GlassHelper/obj/Debug/net452/GlassHelper.AssemblyInfo.cs
+/Users/atom/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/GlassHelper/Code/GlassHelper/GlassHelper/obj/Debug/net452/GlassHelper.csproj.CoreCompileInputs.cache
+/Users/atom/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/GlassHelper/Code/GlassHelper/GlassHelper/obj/Debug/net452/GlassHelper.dll
+/Users/atom/Library/Application Support/Steam/steamapps/common/Celeste/Celeste.app/Contents/Resources/Mods/GlassHelper/Code/GlassHelper/GlassHelper/obj/Debug/net452/GlassHelper.pdb

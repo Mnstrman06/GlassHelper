@@ -1,0 +1,3 @@
+# reverse booster
+placements.entities.GlassHelper/ReverseBooster.tooltips.red=Whether the booster is red or green.
+placements.entities.GlassHelper/ReverseBooster.tooltips.twistSprite=The sprite path for the twist symbol surrounding the booster, relative to Graphics/Atlases/Gameplay. This works with any path from Gameplay, not just objects/.

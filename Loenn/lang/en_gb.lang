@@ -1,0 +1,6 @@
+mods.GlassHelper.name=Glass Helper
+# reverse booster
+entities.GlassHelper/ReverseBooster.placements.name.default=Reverse Booster
+entities.GlassHelper/ReverseBooster.placements.name.red=Reverse Booster (Red)
+entities.GlassHelper/ReverseBooster.attributes.description.red=Whether the booster is red or green.
+entities.GlassHelper/ReverseBooster.attributes.description.twistSprite=The sprite path for the twist symbol surrounding the booster, relative to Graphics/Atlases/Gameplay. This works with any path from Gameplay, not just objects/.
